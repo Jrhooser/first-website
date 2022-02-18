@@ -1,4 +1,10 @@
 body{
-    background: white;
+    background: black;
+    color: white;
+}
+body h1, h2{
     text-align: center;
+}
+body h3#list1{
+    text-align: left;
 }
